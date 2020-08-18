@@ -7,11 +7,11 @@ include the date of expiry
 '[firstname] + [surname]'s visa will expire in 3 months on the date [visaEndDate]'
 */
 
-function addThreeMonths(){
-//get date in miliseconds add 1/3months worth of miliseconds turn it back into string ez life
-var today = new Date();
-console.log(today);
-}
+//put functional code in here once it works
+// function addThreeMonths(){
+// var today = new Date();
+// console.log(today);
+// }
 
 //miliseconds in a month
 var oneMonth = 2628000000;
